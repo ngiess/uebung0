@@ -1,5 +1,5 @@
 package uebung0;
 
-public class Main {
+public class Nico {
 
 }
